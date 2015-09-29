@@ -17,9 +17,6 @@
   "author": "Corey Butler <corey@coreybutler.com>",
   "devDependencies": {},
   "main": "lib/node-windows.js",
-  "os": [
-    "win32"
-  ],
   "preferGlobal": true,
   "dependencies": {
     "optimist": "~0.6.0"
@@ -28,7 +25,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/coreybutler/node-windows.git"
+    "url": "git://github.com/zonetti/node-windows.git"
   },
   "license": "MIT",
   "engine": "node >= 0.10.10"
